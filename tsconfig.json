@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "esModuleInterop": true,
+    "strictNullChecks": true
+  },
+  "include": ["src", "src/custom.d.ts", ".eslintrc.js", "eslint.config.mjs"],
+}
